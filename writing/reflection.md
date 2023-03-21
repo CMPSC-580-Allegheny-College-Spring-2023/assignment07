@@ -24,19 +24,19 @@ Please anticipate at least 500 words for this writing component.
 
  + Identify what research question (or central goal) related to your research project you will attempt to answer with an experiment.
 
-TODO
+    TODO
 
 + What form of prototype are you going to use (Tool, software, website, etc.)? Describe this prototype's capabilities.
 
-TODO
+    TODO
 
 + What will this prototype do? For instance, what inputs, output? Who are the users? Were will this prototype reside when it is being used?
 
-TODO
+    TODO
 
 + Identify what experimental findings will answer your research question. What data will your experiment produce?
 
-TODO
+    TODO
 
 + Outline the detailed steps of your experiment. To help visualize these steps create a technical diagram of your experimental steps (workflow of what you will do in your experiment).
 
@@ -48,31 +48,39 @@ TODO: include the technical diagram here as an image
 
 Please anticipate at least 100 words for this writing component.
 
-
 Who was your peer-reviewed partner?
 
-TODO
+    TODO
+
+What is the GitHub account of the interviewee?
+
+    TODO
+
+What is your interviewee's area of interest?
+
+    TODO
 
 Describe the prototype from your partner.
 
-TODO
+    TODO
 
 Describe the Experiment from your partner.
 
-TODO
+    TODO
 
 Describe how the prototype will produce results with the experiment. 
 
-TODO
+    TODO
 
 Could this experiment be completed without the prototype? Explain.
 
-TODO
+    TODO
 
 What more could be done to improve the prototype?
 
-TODO
+    TODO
 
+---
 
 #### Part 3, Questions About Running the Experiments
 
@@ -80,7 +88,9 @@ Please anticipate at least 100 words for this writing component.
 
 Describe the execution of your experiment. What challenges did you encounter, if any?
 
-TODO
+    TODO
+
+---
 
 #### Part 4, Questions About Results
 
@@ -88,7 +98,7 @@ Please anticipate at least 100 words for this writing component.
 
 Describe the results you obtained from your experiment. What did you learn from its analysis?
 
-TODO: Include the visualizations showing your experimental results.
+    TODO: Include the visualizations showing your experimental results.
 
 ---
 
