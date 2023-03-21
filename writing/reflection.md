@@ -1,6 +1,4 @@
-# CS580S2023
-
-## Assignment 7
+# CS580S2023 :: Assignment 7
 
 ### Answering a research question using a prototype
 
